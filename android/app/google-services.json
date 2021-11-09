@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "331970534605",
+    "project_id": "ocr-demo-f6f8d",
+    "storage_bucket": "ocr-demo-f6f8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331970534605:android:8f84e71f24ba1ad9f6dd84",
+        "android_client_info": {
+          "package_name": "com.example.ocr_demo_firebase_ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331970534605-aao4afsdob2hgiusuevuk7ngm0877kvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLBODb10_v0d-nJjaI_KuyOCpRZnqX8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331970534605-aao4afsdob2hgiusuevuk7ngm0877kvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331970534605-fguu4vtm2h0u9mfdorfaiq9cpkbs2dvg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ocrDemoFirebaseMl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
